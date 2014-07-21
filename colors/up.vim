@@ -101,7 +101,7 @@ hi Delimiter       guifg=#ff9800   guibg=NONE      gui=NONE            ctermfg=2
 " NERDTree highlight
 "————————————————————————————————————————————————————————————————————————————————————————————————————————————————————"
 
-hi Directory       guifg=#4784AA                                        ctermfg=24
+hi Directory       guifg=#66A0C4                                        ctermfg=65
 hi treeCWD         guifg=#BBE7FB                                        ctermfg=67
 
 hi treeDirSlash    guifg=#4D4D4D                                        ctermfg=237
